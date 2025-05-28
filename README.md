@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshithv2004
+- 👋 Hi, I’m Harshit
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
